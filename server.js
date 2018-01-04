@@ -28,4 +28,4 @@ require(path.join(__dirname, '/app/routing/htmlRoutes'))(app);
 
 
 
-app.listen(process.env.PORT || 3000)
+app.listen(process.env.PORT || 3000);
